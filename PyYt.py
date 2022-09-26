@@ -10,4 +10,4 @@ print("View: ", yt.views)
 yd = yt.streams.get_highest_resolution()
 
 # ADD WHERE YOU WANT TO GET YOUR VIDEO DOWNLOADED - DOWNLOAD PATH
-yd.download('./YTfolder')
+yd.download('./YT-Downloads')
