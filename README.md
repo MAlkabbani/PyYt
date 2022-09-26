@@ -8,4 +8,4 @@ pytube==12.1.0
 Usage:
 Define your Download folder in the PyYt.py file.
 Run:
-$ python3 PyYt.py "https://YT.yt/x"
+$ python3 PyYt.py "https:// YTx.ytx/x"
